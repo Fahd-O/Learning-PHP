@@ -1,0 +1,21 @@
+*
+{
+    text-align: center;
+}
+
+.error
+{
+    color: green;
+}
+
+.success
+{
+    color: limegreen;
+}
+
+.unexpectedError
+{
+    color: white;
+    background-color: grey;
+    font-size: x-large;
+}

@@ -1,0 +1,28 @@
+MySQL Database Manipulations codes as used by me during the tutorial video
+
+create table post
+(
+	id int(11) not null primary key auto_increment,
+    subject varchar (128) not null,
+    content text not null,
+    date datetime not null
+);
+
+insert into post (subject, content, date) values ('This is the subject', 'This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content This is the content.', '2022-07-25 11:09:02');
+
+insert into post (subject, content, date) values ('This is the 2nd subject', 'This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content This is 2nd content .', '2022-07-25 11:25:58');
+
+SELECT * subject 
+
+SELECT * subject WHERE id=‘1’
+
+UPDATE posts 
+SET subject='This is 1st subject' WHERE id='1'
+
+DELETE FROM posts WHERE id=‘2’
+
+SELECT * FROM posts ORDER BY id ASC
+
+SELECT * FROM posts ORDER BY id DESC
+
+SELECT * FROM posts ORDER BY subject ASC

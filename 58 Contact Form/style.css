@@ -1,0 +1,93 @@
+*
+{
+    font-family: sans-serif;
+}
+body
+{
+    text-align: center;
+    background: rgb(68, 134, 180);
+}
+
+main
+{
+    padding: 6% 39%;
+    text-align: center;
+    width: 250px;
+}
+
+p
+{
+    text-shadow: 3px 3px black;
+    font-weight: bold;
+    font-size: x-large;
+    color: white;
+}
+
+input, textarea
+{
+    border-bottom-color: rgb(38 105 134);
+    color: aliceblue;
+    margin-bottom: 7px;
+    width: 250px;
+    height: 30px;
+    background:rgba(255, 255, 255, 0.25);
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 3px;
+}
+
+textarea
+{
+    height: 190px;
+}
+
+button
+{
+    font-weight: bold;
+    color: white;
+    background: rgb(38	105	134	);
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 3px;
+    padding: 5px;
+    font-size: larger;
+}
+
+.success
+{
+    margin-top :5%;
+    text-align:center;
+    color:white;
+    background:limegreen;
+    font-size:x-large;
+    border-radius:2rem;
+    padding:1%;
+}
+
+.btn
+{
+    text-align:center;
+}
+
+.btnLinkS
+{
+    color:limegreen;
+    background: rgba(255, 255, 255, 0.82);
+    border: solid;
+    text-decoration:none;
+    padding:1%;
+    border-radius:2rem;
+
+}
+    .btnLinkS:hover
+    {
+        background: limegreen;
+        color: white;
+    }
+    .btnLinkS:active
+    {
+        background: black;
+        color: white;
+    }

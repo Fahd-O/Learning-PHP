@@ -1,0 +1,67 @@
+.success
+{
+    margin-top :5%;
+    text-align:center;
+    color:white;
+    background:limegreen;
+    font-size:x-large;
+    border-radius:2rem;
+    padding:1%;
+}
+
+.error
+{
+    margin-top :5%;
+    text-align:center;
+    color:white; 
+    background:red; 
+    font-size:x-large; 
+    border-radius:2rem; 
+    padding:1%;
+}
+
+.btn
+{
+    text-align:center;
+}
+
+.btnLinkS
+{
+    color:limegreen;
+    border: solid;
+    text-decoration:none;
+    padding:1%;
+    border-radius:2rem;
+
+}
+    .btnLinkS:hover
+    {
+        background: limegreen;
+        color: white;
+    }
+    .btnLinkS:active
+    {
+        background: black;
+        color: white;
+    }
+
+.btnLinkE
+{
+    color:red;
+    border: solid;
+    text-decoration:none;
+    padding:1%;
+    border-radius:2rem;
+
+}
+
+    .btnLinkE:hover
+    {
+        background: red;
+        color: white;
+    }
+    .btnLinkE:active
+    {
+        background: black;
+        color: white;
+    }
