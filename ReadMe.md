@@ -6,7 +6,7 @@ This repository contains a collection of PHP scripts and projects I created whil
 - Advanced concepts like session management, database interaction, and error handling.  
 - Practical applications, such as login systems, contact forms, and image galleries.
 
-Created and completed between Fri, 18th Jun 2021 and Tue, 14th Sep 2021.
+Created and completed between ? and ?.
 
 ## Repository Overview  
 
