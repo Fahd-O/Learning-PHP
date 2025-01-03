@@ -6,7 +6,7 @@ This repository contains a collection of PHP scripts and projects I created whil
 - Advanced concepts like session management, database interaction, and error handling.  
 - Practical applications, such as login systems, contact forms, and image galleries.
 
-Created and completed between ? and ?.
+Created and completed between 23rd Dec 2021 and 23rd Feb 2022.
 
 ## Repository Overview  
 
@@ -58,7 +58,7 @@ This repository serves as a practice ground for implementing the concepts demons
 
 Here's a screenshots of the project folder properties:
 
-![Project Folder Properties Screenshot](./img/)
+![Project Folder Properties Screenshot](./img/LearningPHPFolderPropertiesSS.png)
 
 ## License
 
